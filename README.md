@@ -1,4 +1,5 @@
 # learn-llm-observatory
+> **GitHub Description:** Real-time GenAI monitoring and diagnostics platform for tracking traces, latency spikes, and policy violations with an OTel-native pipeline.
 
 Real-time trace and risk monitoring for GenAI applications.
 
